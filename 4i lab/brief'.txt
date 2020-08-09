@@ -1,0 +1,11 @@
+Analysis and Simulation
+
+Related concepts of fluid dynamics is used for example skin friction ,
+sheer stress distribution and pressure distribution is studied for a more aerodynamic model.
+The shape and weight distribution of the model crucially detemines its power efficiency and accuracy.
+
+Currently Ansys student version is used for underwater simulation. by the use of
+Ansys cfd Fluent simulation,
+variation of skin friction, opposing drag and pressure with respect to velocity is analyzed.
+Its mainly achieved by specifying material used ,boundary conditions ike invard water veocity,pressure isolation at side walls, are specified 
+with a primitive 3d model.
