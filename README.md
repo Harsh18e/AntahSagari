@@ -1,3 +1,3 @@
 # AntahSagari
-4I LABS- IIT Guwahati, An underwater ROV.(Team project)
+4I LABS- IIT Guwahati, An underwater ROV.
 
